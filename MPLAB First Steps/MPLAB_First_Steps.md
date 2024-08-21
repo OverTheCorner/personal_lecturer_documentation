@@ -97,7 +97,7 @@ You can use these newly declared definition in you code to control the Pin.
 
 ![alt text](images/main_c.png)
 
-Here is where you can start creating your application. Let's blink try and blink an LED by switching a pin between HIGH and LOW.
+Here is where you can start creating your application. Let's try and blink an LED by switching a pin between HIGH and LOW.
 
 ## Guided Exercise: "Blinky!"
 
